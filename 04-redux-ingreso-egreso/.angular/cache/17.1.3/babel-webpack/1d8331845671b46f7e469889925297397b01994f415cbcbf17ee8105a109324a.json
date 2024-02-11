@@ -1,0 +1,1 @@
+{"ast":null,"code":"import * as ui from './shared/ui.reducer';\nimport * as auth from './auth/auth.reducer';\nexport const appReducers = {\n  ui: ui.uiReducer,\n  user: auth.authReducer\n  // ingresosEgresos: ingresoEgreso.ingresoEgresoReducer,\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

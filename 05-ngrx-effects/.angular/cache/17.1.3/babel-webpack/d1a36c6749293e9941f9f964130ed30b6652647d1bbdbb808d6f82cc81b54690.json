@@ -1,0 +1,1 @@
+{"ast":null,"code":"import * as reducers from './reducers';\nexport const appReducers = {\n  usuarios: reducers.usuariosReducer,\n  usuario: reducers.UsuarioReducer\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Usuario {\n  static fromFirebase({\n    email,\n    uid,\n    nombre\n  }) {\n    return new Usuario(uid, nombre, email);\n  }\n  constructor(uid, nombre, email) {\n    this.uid = uid;\n    this.nombre = nombre;\n    this.email = email;\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

@@ -8,3 +8,6 @@ export const setFiltro = createAction(
     props<{ filtro: filtrosValidos }>()
 );
 
+
+
+

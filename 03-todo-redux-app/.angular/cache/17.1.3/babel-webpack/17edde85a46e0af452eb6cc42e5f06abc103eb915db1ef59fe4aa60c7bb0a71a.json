@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Todo {\n  constructor(texto) {\n    this.texto = texto;\n    this.id = Math.random();\n    this.completado = false;\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { UsuariosEffects } from './usuarios.effects';\nimport { UsuarioEffects } from './usuario.effects';\nexport const EffectsArray = [UsuariosEffects, UsuarioEffects];","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
